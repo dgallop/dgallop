@@ -22,15 +22,8 @@ Never the less, I will be uploading some interesting projects on other languages
 ## Projects
 
 These are some of the projects I've made. Feel free to check them out!
-<details>
-  <summary>42Cursus</summary>
-  <!--START_SECTION:activity-->
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dgallop/libft">Libft</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dgallop/printf">Printf</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dgallop/get_next_line">Get_next_line</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/dgallop/pipex">Pipex</a><br>
-  <!--END_SECTION:activity-->
-</details>
+
+[42Cursus](https://github.com/dgallop/42Cursus)
 
 ## Social
 
