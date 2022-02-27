@@ -9,7 +9,7 @@ I am an enthusiastic of computers and technology, therefore I'm always up to lea
 In my case I will be uploading my projects mostly from my 42 cursus at Madrid, Spain.
 Never the less, I will be uploading some interesting projects on other languages as well.
 
-## Useful info
+## Stats
 
 <a href="text-align:center">
 	<img align="center" src="https://badge42.herokuapp.com/api/stats/dgallo-p?privacyEmail=true&privacyName=true" alt="dgallo-p's 42 stats"/>
