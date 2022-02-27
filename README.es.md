@@ -2,14 +2,14 @@
 # Sobre mí
 
 ### Hola, mi nombre es Donovan 👋,
-Soy un entuciasta de los ordenadores y tecnología en general por lo que siempre estoy intentando aprender y mejorar.
+Soy un entuciasta de los ordenadores y tecnología en general por lo que siempre estoy intentando aprender y mejorar constantemente.
 
 ## Mi github
 
 En mi caso iré subiendo proyectos sobretodo de mi 42 cursus en Madrid, España.
 Sin embargo también subiré otros proyectos interesantes.
 
-## Info útil
+## Estadísticas
 
 <a href="text-align:center">
 	<img align="center" src="https://badge42.herokuapp.com/api/stats/dgallo-p?privacyEmail=true&privacyName=true" alt="dgallo-p's 42 stats"/>
@@ -34,3 +34,5 @@ Estos son algunos de los proyectos que he hecho. ¡Echales un vistazo!
 [![website](./logos/linkedin-light.svg)](https://twitter.com/dgallop#gh-light-mode-only)
 [![website](./logos/linkedin-dark.svg)](https://twitter.com/dgallop#gh-dark-mode-only)
 &nbsp;&nbsp;
+
+
