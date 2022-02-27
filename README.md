@@ -1,4 +1,4 @@
-![eng](logos/eng.png) [![es](logos/spain.png)](README.es.md)
+![eng](logos/gb.png) [![es](logos/esp.png)](README.es.md)
 # About me
 
 ### Hi, my name is Donovan 👋,
