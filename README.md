@@ -11,10 +11,11 @@ Never the less, I will be uploading some interesting projects on other languages
 
 ## Stats
 
+<!--- 
 <a href="text-align:center">
 	<img align="center" src="https://badge42.herokuapp.com/api/stats/dgallo-p?privacyEmail=true&privacyName=true" alt="dgallo-p's 42 stats"/>
 </a>
-<br>
+<br>--->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgallop&hide=HTML,G-code,scss,css&theme=radical&langs_count=6" alt="Top Langs"/>
 </a>
