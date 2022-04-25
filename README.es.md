@@ -25,6 +25,7 @@ Sin embargo también subiré otros proyectos interesantes.
 Estos son algunos de los proyectos que he hecho. ¡Echales un vistazo!
 
 [42Cursus](https://github.com/dgallop/42Cursus)
+[Bot de Discord](https://github.com/dgallop/discord_bot)
 
 ## Redes sociales
 
