@@ -26,6 +26,7 @@ Never the less, I will be uploading some interesting projects on other languages
 These are some of the projects I've made. Feel free to check them out!
 
 [42Cursus](https://github.com/dgallop/42Cursus)
+[Discord bot](https://github.com/dgallop/discord_bot)
 
 ## Social
 
