@@ -11,10 +11,8 @@ Sin embargo también subiré otros proyectos interesantes.
 
 ## Estadísticas
 
-<a href="text-align:center">
-	<img align="center" src="https://badge42.herokuapp.com/api/stats/dgallo-p?privacyEmail=true&privacyName=true" alt="dgallo-p's 42 stats"/>
-</a>
-<br>
+[![dgallo-p's 42 stats](https://badge42.vercel.app/api/v2/cl2g5cofr006409mdgzubi3oe/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgallop&hide=HTML,G-code,scss,css&theme=radical&langs_count=6" alt="Top Langs"/>
 </a>
